@@ -1,28 +1,26 @@
 import React, {Component} from 'react';
 import * as topojson from 'topojson';
 import * as d3 from 'd3';
+import * as d3SelectionMulti from 'd3-selection-multi';
+
+import { getAffiliationColor } from './helpers';
 
 class UnitedStates extends Component {
-    state = {topologys: null}
+    state = {topologys: null, stateNames: null}
 
     componentDidMount() {
         Promise.all([
             d3.json('data/us.json'),
-            ]).then( ([topology]) => {
-                this.setState({ topology })
+            d3.tsv('data/us-state-names.tsv'),
+            ]).then( ([topology, stateNames]) => {
+                this.setState({ topology, stateNames })
             }).catch(err => console.log('Error loading or parsing data.'))
     }
 
     componentDidUpdate() {
         const { width, height } = this.props;
         const margins = {top: 0, right: 20, bottom: 20, left: 20};
-        const visGroup = d3.select(this.refs.anchor)
-            .attr({
-                'width': width + margins.left + margins.right,
-                'height': height + margins.top + margins.bottom,
-                'preserveAspectRatio': 'xMinYMid',
-                'viewBox': '0 0 ' + (width + margins.left + margins.right) + ' ' + (height + margins.top + margins.bottom)
-            })
+        const vis_group = d3.select(this.refs.anchor)
 
         const projection = d3.geoAlbers()
             .scale(width)
@@ -31,9 +29,37 @@ class UnitedStates extends Component {
         const path = d3.geoPath()
             .projection(projection);
 
-        const topology = this.state.topology;
+        // console.log('stateNames: ', this.state.stateNames)
 
-        console.log("topology: ", topology)
+        const stateNames = this.state.stateNames;
+
+        vis_group
+            .selectAll("path")
+            .data(topojson.feature(this.state.topology, this.state.topology.objects.states).features)
+            .enter().append('path')
+            .attrs({
+                'd': path,
+                'class': 'stats',
+                'id': function(d) {
+                    return d.id
+                },
+                'fill': function(d){
+                    // console.log("stateNames: ", stateNames[d.id])
+
+                    return getAffiliationColor(stateNames[d.id])
+                    // return 'orange'
+                },
+                'stroke': '#fff',
+                'strokeWidth': 2
+            })
+            .each(function(d) {
+                d3.select(this).on('mouseover', user_interaction)
+                d3.select(this).on('mouseout', user_interaction)
+            })
+
+        function user_interaction(d){
+            console.log('d: ', d)
+        }
     }
 
     render() {
