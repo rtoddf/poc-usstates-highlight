@@ -1,0 +1,362 @@
+[
+	{
+		"id": "1",
+		"code": "AL",
+		"name": "Alabama",
+		"party": "Republican"
+	},
+	{
+		"id": "2",
+		"code": "AK",
+		"name": "Alaska",
+		"party": "Republican"
+	},
+	{
+		"id": "4",
+		"code": "AZ",
+		"name": "Arizona",
+		"party": "Republican"
+	},
+	{
+		"id": "5",
+		"code": "AR",
+		"name": "Arkansas",
+		"party": "Republican"
+	},
+	{
+		"id": "6",
+		"code": "CA",
+		"name": "California",
+		"party": "Democrat"
+	},
+	{
+		"id": "8",
+		"code": "CO",
+		"name": "Colorado",
+		"party": "Split"
+	},
+	{
+		"id": "9",
+		"code": "CT",
+		"name": "Connecticut",
+		"party": "Democrat"
+	},
+	{
+		"id": "10",
+		"code": "DE",
+		"name": "Delaware",
+		"party": "Democrat"
+    },
+    {
+		"id": "11",
+		"code": "DC",
+		"name": "District of Columbia",
+		"party": "None"
+	},
+	{
+		"id": "12",
+		"code": "FL",
+		"name": "Florida",
+		"party": "Split"
+	},
+	{
+		"id": "13",
+		"code": "GA",
+		"name": "Georgia",
+		"party": "Republican"
+	},
+	{
+		"id": "15",
+		"code": "HI",
+		"name": "Hawaii",
+		"party": "Democrat"
+	},
+	{
+		"id": "16",
+		"code": "ID",
+		"name": "Idaho",
+		"party": "Republican"
+	},
+	{
+        "id": "17",
+        "code": "IL",
+        "name": "Illinois",
+		"party": "Split"
+	},
+	{
+		"id": "18",
+		"code": "IN",
+		"name": "Indiana",
+		"party": "Split"
+	},
+	{
+		"id": "19",
+		"code": "IA",
+		"name": "Iowa",
+		"party": "Republican"
+	},
+	{
+		"id": "20",
+		"code": "KS",
+		"name": "Kansas",
+		"party": "Republican"
+	},
+	{
+		"id": "21",
+		"code": "KY",
+		"name": "Kentucky",
+		"party": "Republican"
+	},
+	{
+		"id": "22",
+		"code": "LA",
+		"name": "Louisiana",
+		"party": "Republican"
+	},
+	{
+		"id": "23",
+		"code": "ME",
+		"name": "Maine",
+		"party": "Split"
+	},
+	{
+		"id": "24",
+		"code": "MD",
+		"name": "Maryland",
+		"party": "Democrat"
+	},
+	{
+		"id": "25",
+		"code": "MA",
+		"name": "Massachusetts",
+		"party": "Democrat"
+	},
+	{
+		"id": "26",
+		"code": "MI",
+		"name": "Michigan",
+		"party": "Democrat"
+	},
+	{
+		"id": "27",
+		"code": "MN",
+		"name": "Minnesota",
+		"party": "Democrat"
+	},
+	{
+		"id": "28",
+		"code": "MS",
+		"name": "Mississippi",
+		"party": "Republican"
+	},
+	{
+		"id": "29",
+		"code": "MO",
+		"name": "Missouri",
+		"party": "Split"
+	},
+	{
+		"id": "30",
+		"code": "MT",
+		"name": "Montana",
+		"party": "Split"
+	},
+	{
+		"id": "31",
+		"code": "NE",
+		"name": "Nebraska",
+		"party": "Republican"
+	},
+	{
+		"id": "32",
+		"code": "NV",
+		"name": "Nevada",
+		"party": "Split"
+	},
+	{
+		"id": "33",
+		"code": "NH",
+		"name": "New Hampshire",
+		"party": "Split"
+	},
+	{
+		"id": "34",
+		"code": "NJ",
+		"name": "New Jersey",
+		"party": "Democrat"
+	},
+	{
+		"id": "35",
+		"code": "NM",
+		"name": "New Mexico",
+		"party": "Democrat"
+	},
+	{
+		"id": "36",
+		"code": "NY",
+		"name": "New York",
+		"party": "Democrat"
+	},
+	{
+		"id": "37",
+		"code": "NC",
+		"name": "North Carolina",
+		"party": "Republican"
+	},
+	{
+		"id": "38",
+		"code": "ND",
+		"name": "North Dakota",
+		"party": "Split"
+	},
+	{
+		"id": "39",
+		"code": "OH",
+		"name": "Ohio",
+		"party": "Split"
+	},
+	{
+		"id": "40",
+		"code": "OK",
+		"name": "Oklahoma",
+		"party": "Republican"
+	},
+	{
+		"id": "41",
+		"code": "OR",
+		"name": "Oregon",
+		"party": "Democrat"
+	},
+	{
+		"id": "42",
+		"code": "PA",
+		"name": "Pennsylvania",
+		"party": "Split"
+	},
+	{
+		"id": "44",
+		"code": "RI",
+		"name": "Rhode Island",
+		"party": "Democrat"
+	},
+	{
+		"id": "45",
+		"code": "SC",
+		"name": "South Carolina",
+		"party": "Republican"
+	},
+	{
+		"id": "46",
+		"code": "SD",
+		"name": "South Dakota",
+		"party": "Republican"
+	},
+	{
+		"id": "47",
+		"code": "TN",
+		"name": "Tennessee",
+		"party": "Republican"
+	},
+	{
+		"id": "48",
+		"code": "TX",
+		"name": "Texas",
+		"party": "Republican"
+	},
+	{
+		"id": "49",
+		"code": "UT",
+		"name": "Utah",
+		"party": "Split"
+	},
+	{
+		"id": "50",
+		"code": "VT",
+		"name": "Vermont",
+		"party": "Democrat"
+	},
+	{
+		"id": "51",
+		"code": "VA",
+		"name": "Virginia",
+		"party": "Democrat"
+	},
+	{
+		"id": "53",
+		"code": "WA",
+		"name": "Washington",
+		"party": "Democrat"
+	},
+	{
+		"id": "54",
+		"code": "WV",
+		"name": "West Virginia",
+		"party": "Split"
+	},
+	{
+		"id": "55",
+		"code": "WI",
+		"name": "Wisconsin",
+		"party": "Split"
+	},
+	{
+		"id": "56",
+		"code": "WY",
+		"name": "Wyoming",
+		"party": "Republican"
+    },
+    {
+		"id": "78",
+		"code": "VI",
+		"name": "Virgin Islands of the United States",
+		"party": "none"
+    },
+    {
+		"id": "60",
+		"code": "AS",
+		"name": "America Samoa",
+		"party": "none"
+	},
+	{
+		"id": "64",
+		"code": "FM",
+		"name": "Federated States of Micronesia",
+		"party": "none"
+	},
+	{
+		"id": "66",
+		"code": "GU",
+		"name": "Guam",
+		"party": "none"
+	},
+	{
+		"id": "68",
+		"code": "MH",
+		"name": "Marshall Islands",
+		"party": "none"
+	},
+	{
+		"id": "69",
+		"code": "MP",
+		"name": "Northern Mariana Islands",
+		"party": "none"
+	},
+	{
+		"id": "70",
+		"code": "PW",
+		"name": "Palau",
+		"party": "noen"
+	},
+	{
+		"id": "72",
+		"code": "PR",
+		"name": "Puerto Rico",
+		"party": "none"
+	},
+	{
+		"id": "74",
+		"code": "UM",
+		"name": "U.S. Minor Outlying Islands",
+		"party": "none"
+	}
+]
