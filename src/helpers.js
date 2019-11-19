@@ -1,18 +1,15 @@
 // Values that may need tweaked.
-const GOP_PARTY_VALUE = "Republican";
-const DEM_PARTY_VALUE = "Democrat";
-const LIB_PARTY_VALUE = "Split";
+const GOP_PARTY_VALUE = "republican";
+const DEM_PARTY_VALUE = "democrat";
+const LIB_PARTY_VALUE = "split";
 
 // this helper is for the precinct progress bar
 export function getAffiliationColor(affiliation) {
-    const name = affiliation != undefined ? affiliation.name : '';
-    const party = affiliation != undefined ? affiliation.party : '';
-
-    console.log(name, party)
-
+    // const name = affiliation != undefined ? affiliation.name : '';
+    // const party = affiliation != undefined ? affiliation.party : '';
 
     // switch (affiliation.toLowerCase().trim()) {
-    switch (party) {
+    switch ((affiliation.party).toLowerCase().trim()) {
       case GOP_PARTY_VALUE:
         return "#e23834";
       case DEM_PARTY_VALUE:

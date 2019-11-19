@@ -12,9 +12,9 @@ class UnitedStates extends Component {
         Promise.all([
             d3.json('data/us.json'),
             d3.tsv('data/us-state-names.tsv'),
-            ]).then( ([topology, stateNames]) => {
-                this.setState({ topology, stateNames })
-            }).catch(err => console.log('Error loading or parsing data.'))
+        ]).then( ([topology, stateNames]) => {
+            this.setState({ topology, stateNames })
+        }).catch(err => console.log('Error loading or parsing data.'))
     }
 
     componentDidUpdate() {
@@ -44,10 +44,8 @@ class UnitedStates extends Component {
                     return d.id
                 },
                 'fill': function(d){
-                    // console.log("stateNames: ", stateNames[d.id])
-
-                    return getAffiliationColor(stateNames[d.id])
-                    // return 'orange'
+                    const whichState = (stateNames.filter((elem) => { return elem.id == d.id}))[0];
+                    return getAffiliationColor(whichState)
                 },
                 'stroke': '#fff',
                 'strokeWidth': 2
@@ -58,7 +56,7 @@ class UnitedStates extends Component {
             })
 
         function user_interaction(d){
-            console.log('d: ', d)
+            console.log('d: ', d.id)
         }
     }
 
