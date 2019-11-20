@@ -3,360 +3,2580 @@
 		"id": "1",
 		"code": "AL",
 		"name": "Alabama",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "2",
 		"code": "AK",
 		"name": "Alaska",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "4",
 		"code": "AZ",
 		"name": "Arizona",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "5",
 		"code": "AR",
 		"name": "Arkansas",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "6",
 		"code": "CA",
 		"name": "California",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "8",
 		"code": "CO",
 		"name": "Colorado",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "9",
 		"code": "CT",
 		"name": "Connecticut",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "10",
 		"code": "DE",
 		"name": "Delaware",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
     },
     {
 		"id": "11",
 		"code": "DC",
 		"name": "District of Columbia",
-		"party": "None"
+		"party": "None",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "12",
 		"code": "FL",
 		"name": "Florida",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "13",
 		"code": "GA",
 		"name": "Georgia",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "15",
 		"code": "HI",
 		"name": "Hawaii",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "16",
 		"code": "ID",
 		"name": "Idaho",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
         "id": "17",
         "code": "IL",
         "name": "Illinois",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "18",
 		"code": "IN",
 		"name": "Indiana",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "19",
 		"code": "IA",
 		"name": "Iowa",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "20",
 		"code": "KS",
 		"name": "Kansas",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "21",
 		"code": "KY",
 		"name": "Kentucky",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "22",
 		"code": "LA",
 		"name": "Louisiana",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "23",
 		"code": "ME",
 		"name": "Maine",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "24",
 		"code": "MD",
 		"name": "Maryland",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "25",
 		"code": "MA",
 		"name": "Massachusetts",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "26",
 		"code": "MI",
 		"name": "Michigan",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "27",
 		"code": "MN",
 		"name": "Minnesota",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "28",
 		"code": "MS",
 		"name": "Mississippi",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "29",
 		"code": "MO",
 		"name": "Missouri",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "30",
 		"code": "MT",
 		"name": "Montana",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "31",
 		"code": "NE",
 		"name": "Nebraska",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "32",
 		"code": "NV",
 		"name": "Nevada",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "33",
 		"code": "NH",
 		"name": "New Hampshire",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "34",
 		"code": "NJ",
 		"name": "New Jersey",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "35",
 		"code": "NM",
 		"name": "New Mexico",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "36",
 		"code": "NY",
 		"name": "New York",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "37",
 		"code": "NC",
 		"name": "North Carolina",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "38",
 		"code": "ND",
 		"name": "North Dakota",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "39",
 		"code": "OH",
 		"name": "Ohio",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "40",
 		"code": "OK",
 		"name": "Oklahoma",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "41",
 		"code": "OR",
 		"name": "Oregon",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "42",
 		"code": "PA",
 		"name": "Pennsylvania",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "44",
 		"code": "RI",
 		"name": "Rhode Island",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "45",
 		"code": "SC",
 		"name": "South Carolina",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "46",
 		"code": "SD",
 		"name": "South Dakota",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "47",
 		"code": "TN",
 		"name": "Tennessee",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "48",
 		"code": "TX",
 		"name": "Texas",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "49",
 		"code": "UT",
 		"name": "Utah",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "50",
 		"code": "VT",
 		"name": "Vermont",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "51",
 		"code": "VA",
 		"name": "Virginia",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "53",
 		"code": "WA",
 		"name": "Washington",
-		"party": "Democrat"
+		"party": "Democrat",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "54",
 		"code": "WV",
 		"name": "West Virginia",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "55",
 		"code": "WI",
 		"name": "Wisconsin",
-		"party": "Split"
+		"party": "Split",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "56",
 		"code": "WY",
 		"name": "Wyoming",
-		"party": "Republican"
+		"party": "Republican",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
     },
     {
 		"id": "78",
 		"code": "VI",
 		"name": "Virgin Islands of the United States",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
     },
     {
 		"id": "60",
 		"code": "AS",
 		"name": "America Samoa",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "64",
 		"code": "FM",
 		"name": "Federated States of Micronesia",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "66",
 		"code": "GU",
 		"name": "Guam",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "68",
 		"code": "MH",
 		"name": "Marshall Islands",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "69",
 		"code": "MP",
 		"name": "Northern Mariana Islands",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "70",
 		"code": "PW",
 		"name": "Palau",
-		"party": "noen"
+		"party": "noen",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "72",
 		"code": "PR",
 		"name": "Puerto Rico",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	},
 	{
 		"id": "74",
 		"code": "UM",
 		"name": "U.S. Minor Outlying Islands",
-		"party": "none"
+		"party": "none",
+		"candidates": [
+			{
+				"id": "46562",
+				"name": "Joe Biden",
+				"name_override": "Joe Biden Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/joe-biden.jpg",
+				"selected": true,
+				"order": 1,
+				"winner": false,
+				"incumbent": false,
+				"votes": 500000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "D",
+				"party_override": "DEM"
+			},
+			{
+				"id": "47617",
+				"name": "Donald Trump",
+				"name_override": "Donald Trump Override",
+				"url": "https://www.cnn.com/",
+				"image": "http://rtodd.net/elections/donald-trump.jpg",
+				"selected": true,
+				"order": 2,
+				"winner": false,
+				"incumbent": true,
+				"votes": 300000,
+				"votes_override": null,
+				"percentage": "",
+				"percentage_override": null,
+				"party": "R",
+				"party_override": "GOP"
+			}
+		],
+      "votesCast": 800000
 	}
 ]
